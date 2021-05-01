@@ -1,0 +1,2 @@
+# Analýza sentimentu
+
